@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.both{
+	display: flex;
+	flex-direction: row;
+	float: right;
+	padding-top: 10px;
+}
+.context{
+	padding-right: 7px;
+	padding-left: 7px;
+}
+.pics{
+	padding-right: 7px;
+	padding-left: 7px;
+}
+.img{
+	height: 233px;
+	padding-top: 120px;
+	display: block;
+	text-align: -webkit-center;
+
+}
+.google{
+	text-align: -webkit-center;
+	padding-top: 125px;
+}
+.search{
+	text-align: center;
+}
+.bottons{
+	text-align: center;
+	
+
+}
+.p{
+	text-align: center;
+}
+.link-color{
+	color: white;
+}
+.sp{
+	padding-top: 300px;
+
+}
